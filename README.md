@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @jzmark
+- 👋 Hi, I’m @marekjezinski
 - 👀 I’m interested in Computer Science, Railway Systems, Operations & Infrastructure, Rolling Stock, Formula 1 and Tennis
 - 🌱 I’m a current PhD student in Computer Science and BSc Software Engineering graduate @ Swansea University
